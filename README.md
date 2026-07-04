@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0c1a2e,80:0d2137,100:0d1117&height=220&section=header&text=Sahan%20Pramuditha&fontSize=55&fontColor=E2E8F0&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20BICT%20%40%20University%20of%20Colombo%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descColor=38BDF8&descAlignY=63" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0c1a2e,80:0d2137,100:0d1117&height=220&section=header&text=Sahan%20Pramuditha&fontSize=55&fontColor=E2E8F0&fontAlignY=42&animation=fadeIn&desc=BICT%20Undergraduate%20%7C%20University%20of%20Colombo%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descColor=38BDF8&descAlignY=63" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+production-grade+web+%26+mobile+apps+%F0%9F%9A%80;React+19+%7C+Next.js+%7C+Three.js+%7C+GSAP+%7C+Kotlin;Turning+complex+problems+into+clean+solutions+%E2%9C%A8;Always+learning+%E2%86%92+always+shipping+%F0%9F%93%A6)](https://sahanpramuditha.me)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=BICT+Undergraduate+%40+University+of+Colombo+🏫;E-Commerce+Administrator+%26+Website+Manager;Building+practical+solutions+with+Java+%7C+Python+%7C+React;Passionate+about+software+engineering+%26+innovation+🚀)](https://sahanpramuditha.me)
 
 </div>
 
@@ -15,9 +15,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sahanpramuditha.me-0ea5e9?style=for-the-badge&labelColor=1e293b&color=0ea5e9)](https://sahanpramuditha.me)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)](https://www.linkedin.com/in/sahan-pramuditha-754761356/)&nbsp;
-[![YouTube](https://img.shields.io/badge/CiperForge_Tech_Lab-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1b2a)](https://youtube.com/@CiperForge)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a)](mailto:sahanpramuditha91@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)](https://www.linkedin.com/in/sahan-pramuditha/)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a)](mailto:contact.sahanpramuditha@gmail.com)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1b2a)](https://twitter.com/sahanpramuditha)
 
 </div>
@@ -28,11 +27,9 @@
 
 ## 👋 About Me
 
-I'm a **software developer and BICT undergraduate** at the University of Colombo, building performant web and mobile applications. I care about developer experience, clean architecture, and code that scales.
+I'm **M. Sahan Pramuditha Perera**, an enthusiastic and results-oriented Engineering Technology undergraduate at the **University of Colombo – Faculty of Technology**, specializing in Information and Communication Technology (ICT), software development, and technical innovation. 
 
-Currently shipping a **[space-themed 3D portfolio](https://sahanpramuditha.me)** powered by React 19, Three.js, and GSAP — alongside an inventory system, an Android networking app, and educational platforms.
-
-I also run **[CiperForge Tech Lab](https://youtube.com/@CiperForge)** on YouTube — practical dev tutorials and building in public.
+I blend academic theory with hands-on professional experience in e-commerce administration, retail operations management, and industrial production monitoring to build practical, tech-driven solutions.
 
 <br/>
 
@@ -40,14 +37,33 @@ I also run **[CiperForge Tech Lab](https://youtube.com/@CiperForge)** on YouTube
 
 | | |
 |:---:|:---|
-| 📍 | Negombo, Western Province, Sri Lanka |
-| 🎓 | BICT — University of Colombo *(Class of 2026)* |
-| 🔭 | Currently building: **Invento** Inventory System |
-| 📺 | YouTube: **[CiperForge Tech Lab](https://youtube.com/@CiperForge)** |
-| 📫 | sahanpramuditha91@gmail.com |
-| ⚡ | Best code written between 11 PM – 3 AM |
+| 📍 | Gampaha, Sri Lanka |
+| 🎓 | BICT — University of Colombo *(Class of 2028)* |
+| 💼 | E-Commerce Administrator & Website Manager @ Wybe Fashion |
+| 🌐 | Portfolio: [sahanpramuditha.me](http://sahanpramuditha.me/) |
+| 📫 | contact.sahanpramuditha@gmail.com |
 
 </div>
+
+<br/>
+
+<div align="center">
+
+### 🎯 Core Areas
+`E-Commerce Operations` &nbsp;•&nbsp; `Cybersecurity` &nbsp;•&nbsp; `System Administration` &nbsp;•&nbsp; `DevOps` &nbsp;•&nbsp; `Software Engineering`
+
+</div>
+
+---
+
+## 💭 Engineering Philosophy
+
+I believe good software solves real-world problems while remaining simple, secure, and maintainable.
+
+- ⚙️ **Clean Architecture** — Separating concerns to write scaling code.
+- ⚡ **Performance First** — Optimizing client assets and query processing.
+- 🎨 **Thoughtful UI/UX** — Accessible, clean, and intuitive layouts.
+- 🔒 **Security Minded** — Adhering to secure coding guidelines from day one.
 
 ---
 
@@ -55,87 +71,61 @@ I also run **[CiperForge Tech Lab](https://youtube.com/@CiperForge)** on YouTube
 
 <div align="center">
 
-### 🔤 Languages
+### 🔤 Languages & Frontend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frontend
+### ⚙️ Databases · Tools · Design
 
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### ⚙️ Backend · Databases · Mobile · DevOps
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![E-Commerce](https://img.shields.io/badge/E--Commerce-000000?style=for-the-badge&logo=shopify&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🌌 Space Portfolio
-Personal developer portfolio with a 3D skill orbit, cinematic loading screen, and deep-space HUD aesthetic.
+## 📚 Currently Learning
 
-**Stack:** `React 19` `Vite 7` `Three.js` `React Three Fiber` `GSAP` `Framer Motion` `Tailwind CSS`
-
-[![Live](https://img.shields.io/badge/🌐_Live-sahanpramuditha.me-0ea5e9?style=flat-square)](https://sahanpramuditha.me)
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 Invento
-Multi-tenant inventory management system with real-time tracking, analytics dashboard, and WebSocket updates.
-
-**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `WebSocket` `PostgreSQL` `Prisma`
-
-![Status](https://img.shields.io/badge/Status-In_Development-f59e0b?style=flat-square)
-![Progress](https://img.shields.io/badge/Progress-85%25-22c55e?style=flat-square)
+- ☁️ AWS
+- 🐳 Docker Compose
+- ☸️ Kubernetes
+- 🔐 Cybersecurity
+- 🤖 AI Agents
+- ⚙️ System Design
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📡 NetPulse
-Android Wi-Fi management app with network diagnostics, device discovery, signal analysis, and MVVM architecture.
+## 🏅 Certifications
 
-**Stack:** `Kotlin` `MVVM` `Jetpack` `Hilt` `Coroutines` `Android SDK`
-
-![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+- ✔️ Cisco
+- ✔️ freeCodeCamp
+- ✔️ Google
+- ✔️ TryHackMe
+- ✔️ Coursera
+- ✔️ IBM
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🎓 LearnOS
-Student-focused LMS dashboard with session lifecycle management, progress tracking, video player, and notes.
+## ⚙️ Architecture Interests
 
-**Stack:** `React` `Firebase` `Firestore` `Vercel` `Tailwind CSS`
-
-![Status](https://img.shields.io/badge/Status-Design_Phase-a855f7?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Web_App-3178C6?style=flat-square)
+- 🖥️ System Design
+- ☁️ DevOps & Cloud Computing
+- 🛡️ Cybersecurity
+- 🤖 AI Agents & Integrations
 
 </td>
 </tr>
@@ -143,54 +133,101 @@ Student-focused LMS dashboard with session lifecycle management, progress tracki
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
-<div align="center">
+#### **Wybe Fashion** | *E-Commerce Administrator & Website Manager* | *Dec 2024 - Present*
+- Manage and maintain the [wybe.lk](https://wybe.lk) website, optimizing store performance and user experience.
+- Handle product photography, catalog uploads, inventory synchronization, and digital marketing operations.
 
-<img src="https://github-readme-stats.vercel.app/api?username=SahanPramuditha-Dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&rank_icon=github" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=SahanPramuditha-Dev&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&border_radius=10" height="175" alt="GitHub Streak"/>
+#### **Wybe Fashion** | *Assistant Manager & Head Cashier* | *Dec 2024 - Present*
+- Led store staff, managed checkout operations (POS), and streamlined cash and stock management.
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanPramuditha-Dev&layout=compact&hide_border=true&theme=tokyonight&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&langs_count=8" height="160" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanPramuditha-Dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=f59e0b&area=true&area_color=0c4a6e&radius=6&custom_title=Sahan%27s%20Contribution%20Graph" width="97%" alt="Contribution Graph"/>
-
-</div>
+#### **Star Garments Group** | *Industrial Engineering Assistant & Production Systems Technician* | *Sep 2023 - Dec 2023*
+- Monitored Leadtec production tracking devices, ensured data integrity, and supported process optimization workflows.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Projects & Achievements
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SahanPramuditha-Dev&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" alt="GitHub Trophies"/>
+### 🌐 [wybe.lk E-Commerce](https://wybe.lk/)
+Coordinating web administration, managing listings, adjusting pricing, and optimizing online operations for wybe.lk.
 
-</div>
+**Skills:** `Web Admin` `SEO` `Content Strategy` `Inventory Sync`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔑 [Python Password Cracker](https://github.com/SahanPramuditha-Dev/Python-Password-Cracker)
+Educational cybersecurity application demonstrating dictionary-based cracking and hashing verification algorithms.
+
+**Skills:** `Python` `Cybersecurity` `Cryptography` `Scripting`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 G.C.E. Advanced Level (A/L)
+**Engineering Technology Stream (2022/2023)**
+- **A Grades:** ICT, Science for Technology, General English
+- **B Grade:** Engineering Technology
+- **Z-Score:** 2.0519 | **District Rank:** 41 | **Island Rank:** 343
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Key Achievements
+- **Runner-Up Team:** "Do You Know?" Zonal Quiz (2018)
+- **President:** Under-16 Student Club
+- **Member:** Sri Lanka Scout Association (2014 - 2016)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Open To
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+## ⚡ Fun Facts
 
-| Opportunity | Status |
-|:---|:---:|
-| 🌐 Full-Stack Web Projects | ✅ Available |
-| 📱 Android / Kotlin Development | ✅ Available |
-| 🎓 Tech Mentorship | ✅ Open |
-| 🤝 Open Source Contributions | ✅ Contributing |
-| 🎥 YouTube / Tech Content Collab | ✅ Interested |
-| 💼 Internship / Part-time Roles | 🔍 Considering |
+- 🌙 Write my most focused code during late-night hours.
+- 🚀 Passionate about clean, cinematic, and modern web UIs.
+- ☕ Powered by black coffee and VS Code.
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+## 💬 Quote
+
+> "First, make it work.
+> <br/>Then make it right.
+> <br/>Then make it fast."
+> <br/>— *Kent Beck*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Looking For
+
+• Internship
+
+• Freelance
+
+• Open Source
+
+• Collaboration
+
+• Speaking Opportunities
 
 ---
 
@@ -202,7 +239,11 @@ Student-focused LMS dashboard with session lifecycle management, progress tracki
 
 <br/><br/>
 
-*Always happy to talk systems design, frontend engineering, or Android development.*
+[![Get in Touch](https://img.shields.io/badge/📩_Get_in_Touch-contact.sahanpramuditha%40gmail.com-0ea5e9?style=for-the-badge&labelColor=1e293b)](mailto:contact.sahanpramuditha@gmail.com)
+
+<br/><br/>
+
+*Always happy to talk software engineering, databases, system/network administration, or digital operations.*
 
 <br/>
 
