@@ -1,252 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0c1a2e,80:0d2137,100:0d1117&height=220&section=header&text=Sahan%20Pramuditha&fontSize=55&fontColor=E2E8F0&fontAlignY=42&animation=fadeIn&desc=BICT%20Undergraduate%20%7C%20University%20of%20Colombo%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descColor=38BDF8&descAlignY=63" width="100%"/>
+# Sahan Pramuditha
 
-</div>
+### Software Developer · BICT Undergraduate @ University of Colombo
 
-<div align="center">
+Building full-stack applications, backend systems, and developer tools with a focus on practical problem-solving, maintainable architecture, and thoughtful user experiences.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=BICT+Undergraduate+%40+University+of+Colombo+🏫;E-Commerce+Administrator+%26+Website+Manager;Building+practical+solutions+with+Java+%7C+Python+%7C+React;Passionate+about+software+engineering+%26+innovation+🚀)](https://sahanpramuditha.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahanpramuditha.me-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://sahanpramuditha.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahan_Pramuditha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-pramuditha/)
+[![Email](https://img.shields.io/badge/Email-contact.sahanpramuditha%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.sahanpramuditha@gmail.com)
 
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sahanpramuditha.me-0ea5e9?style=for-the-badge&labelColor=1e293b&color=0ea5e9)](https://sahanpramuditha.me)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)](https://www.linkedin.com/in/sahan-pramuditha/)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a)](mailto:contact.sahanpramuditha@gmail.com)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1b2a)](https://twitter.com/sahanpramuditha)
-
-</div>
-
-<br/>
-
----
-
-## 👋 About Me
-
-I'm **M. Sahan Pramuditha Perera**, an enthusiastic and results-oriented Engineering Technology undergraduate at the **University of Colombo – Faculty of Technology**, specializing in Information and Communication Technology (ICT), software development, and technical innovation. 
-
-I blend academic theory with hands-on professional experience in e-commerce administration, retail operations management, and industrial production monitoring to build practical, tech-driven solutions.
-
-<br/>
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| 📍 | Gampaha, Sri Lanka |
-| 🎓 | BICT — University of Colombo *(Class of 2028)* |
-| 💼 | E-Commerce Administrator & Website Manager @ Wybe Fashion |
-| 🌐 | Portfolio: [sahanpramuditha.me](http://sahanpramuditha.me/) |
-| 📫 | contact.sahanpramuditha@gmail.com |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🎯 Core Areas
-`E-Commerce Operations` &nbsp;•&nbsp; `Cybersecurity` &nbsp;•&nbsp; `System Administration` &nbsp;•&nbsp; `DevOps` &nbsp;•&nbsp; `Software Engineering`
+`Software Engineering` · `Full-Stack Development` · `Backend Engineering` · `Cloud & Systems`
 
 </div>
 
 ---
 
-## 💭 Engineering Philosophy
+## About
 
-I believe good software solves real-world problems while remaining simple, secure, and maintainable.
+I'm **M. Sahan Pramuditha Perera**, a **Bachelor of Information and Communication Technology (BICT)** undergraduate at the **University of Colombo, Faculty of Technology**.
 
-- ⚙️ **Clean Architecture** — Separating concerns to write scaling code.
-- ⚡ **Performance First** — Optimizing client assets and query processing.
-- 🎨 **Thoughtful UI/UX** — Accessible, clean, and intuitive layouts.
-- 🔒 **Security Minded** — Adhering to secure coding guidelines from day one.
+I build software across web, backend, desktop, mobile, and developer-tooling domains. My work focuses on turning real operational problems into usable systems while continuously improving my knowledge of software architecture, databases, cloud platforms, security, and modern development practices.
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🔤 Languages & Frontend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Databases · Tools · Design
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![E-Commerce](https://img.shields.io/badge/E--Commerce-000000?style=for-the-badge&logo=shopify&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
-</div>
+- 📍 Gampaha, Sri Lanka
+- 🎓 BICT — University of Colombo · Expected 2028
+- 💼 E-Commerce Administrator & Website Manager — Wybe Fashion
+- 🌐 [sahanpramuditha.me](https://sahanpramuditha.me)
+- 📫 [contact.sahanpramuditha@gmail.com](mailto:contact.sahanpramuditha@gmail.com)
 
 ---
 
-<table width="100%">
+## Featured Engineering Projects
+
+<table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-## 📚 Currently Learning
+### 🏪 [iStore ERP](https://github.com/SahanPramuditha-Dev/I-Store-Website)
 
-- ☁️ AWS
-- 🐳 Docker Compose
-- ☸️ Kubernetes
-- 🔐 Cybersecurity
-- 🤖 AI Agents
-- ⚙️ System Design
+Retail POS, inventory, repair, customer, reporting, and administration platform designed for desktop, local-network, and cloud deployment scenarios.
 
-</td>
-<td width="33%" valign="top">
+**Engineering highlights**
+- React + FastAPI full-stack architecture
+- SQLite / PostgreSQL data layer
+- Electron desktop application
+- SQLAlchemy, Pydantic & Alembic
+- RBAC, audit trails & operational workflows
+- Docker, CI and deployment documentation
 
-## 🏅 Certifications
-
-- ✔️ Cisco
-- ✔️ freeCodeCamp
-- ✔️ Google
-- ✔️ TryHackMe
-- ✔️ Coursera
-- ✔️ IBM
+`React` `FastAPI` `Python` `PostgreSQL` `Electron` `Docker`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-## ⚙️ Architecture Interests
+### 🎓 [StudyOS](https://github.com/SahanPramuditha-Dev/StudyOS)
 
-- 🖥️ System Design
-- ☁️ DevOps & Cloud Computing
-- 🛡️ Cybersecurity
-- 🤖 AI Agents & Integrations
+An all-in-one study and productivity workspace combining academic management, planning, collaboration, analytics, and AI-assisted learning.
+
+**Engineering highlights**
+- Authentication & role-aware routing
+- Courses, assignments, projects and planning
+- Spaced repetition and study analytics
+- Google Calendar & OAuth integrations
+- AI-assisted study workflows
+- Firebase security rules, testing and documentation
+
+`React` `Firebase` `Vite` `Tailwind CSS` `Cloud Functions` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌳 [FamilyTree](https://github.com/SahanPramuditha-Dev/FamilyTree)
+
+Privacy-focused genealogy platform for visualizing family relationships, preserving historical records, mapping migration, and collaborating across generations.
+
+**Engineering highlights**
+- Interactive multi-generation graph visualization
+- Kinship and relationship-path calculation
+- GIS-based family migration maps
+- GEDCOM, CSV, JSON and PDF workflows
+- Role-based collaborative family spaces
+- Firebase-backed authentication and data access
+
+`React` `TypeScript` `Firebase` `React Flow` `Leaflet` `Vite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [SysLens](https://github.com/SahanPramuditha-Dev/Syslens)
+
+Local-first system telemetry and observability toolkit for developers, combining system metrics, diagnostics, anomaly detection, CLI tooling, and a web dashboard.
+
+**Engineering highlights**
+- CPU, memory, disk and process telemetry
+- Rolling behavioral baselines
+- Z-score anomaly detection
+- Plugin architecture
+- Developer-facing CLI commands
+- FastAPI + WebSocket dashboard
+
+`Python` `FastAPI` `WebSocket` `CLI` `Observability` `System Tools`
 
 </td>
 </tr>
 </table>
 
----
-
-## 💼 Professional Experience
-
-#### **Wybe Fashion** | *E-Commerce Administrator & Website Manager* | *Dec 2024 - Present*
-- Manage and maintain the [wybe.lk](https://wybe.lk) website, optimizing store performance and user experience.
-- Handle product photography, catalog uploads, inventory synchronization, and digital marketing operations.
-
-#### **Wybe Fashion** | *Assistant Manager & Head Cashier* | *Dec 2024 - Present*
-- Led store staff, managed checkout operations (POS), and streamlined cash and stock management.
-
-#### **Star Garments Group** | *Industrial Engineering Assistant & Production Systems Technician* | *Sep 2023 - Dec 2023*
-- Monitored Leadtec production tracking devices, ensured data integrity, and supported process optimization workflows.
+> Explore more of my work in the [repositories tab](https://github.com/SahanPramuditha-Dev?tab=repositories), including Android applications, networking tools, learning projects, web applications, and experimental systems.
 
 ---
 
-## 🚀 Projects & Achievements
+## Technical Stack
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### Languages
 
-### 🌐 [wybe.lk E-Commerce](https://wybe.lk/)
-Coordinating web administration, managing listings, adjusting pricing, and optimizing online operations for wybe.lk.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Skills:** `Web Admin` `SEO` `Content Strategy` `Inventory Sync`
+### Frontend & Application Development
 
-</td>
-<td width="50%" valign="top">
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### 🔑 [Python Password Cracker](https://github.com/SahanPramuditha-Dev/Python-Password-Cracker)
-Educational cybersecurity application demonstrating dictionary-based cracking and hashing verification algorithms.
+### Backend, Data & APIs
 
-**Skills:** `Python` `Cybersecurity` `Cryptography` `Scripting`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Cloud, DevOps & Engineering Tools
 
-### 🎓 G.C.E. Advanced Level (A/L)
-**Engineering Technology Stream (2022/2023)**
-- **A Grades:** ICT, Science for Technology, General English
-- **B Grade:** Engineering Technology
-- **Z-Score:** 2.0519 | **District Rank:** 41 | **Island Rank:** 343
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 Key Achievements
-- **Runner-Up Team:** "Do You Know?" Zonal Quiz (2018)
-- **President:** Under-16 Student Club
-- **Member:** Sri Lanka Scout Association (2014 - 2016)
-
-</td>
-</tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## Professional Experience
 
-## ⚡ Fun Facts
+### Wybe Fashion — Dec 2024 · Present
+**E-Commerce Administrator & Website Manager / Retail Operations**
 
-- 🌙 Write my most focused code during late-night hours.
-- 🚀 Passionate about clean, cinematic, and modern web UIs.
-- ☕ Powered by black coffee and VS Code.
+- Manage and maintain [wybe.lk](https://wybe.lk), including catalog content, pricing, product information, and day-to-day website operations.
+- Coordinate product photography, digital content, inventory synchronization, and e-commerce workflows.
+- Support retail operations, POS processes, stock handling, and operational troubleshooting.
 
-</td>
-<td width="50%" valign="top">
+### Star Garments Group — Sep 2023 · Dec 2023
+**Industrial Engineering Assistant & Production Systems Technician**
 
-## 💬 Quote
-
-> "First, make it work.
-> <br/>Then make it right.
-> <br/>Then make it fast."
-> <br/>— *Kent Beck*
-
-</td>
-</tr>
-</table>
+- Supported production-monitoring workflows using Leadtec tracking systems.
+- Monitored operational data quality and assisted with production-process tracking and optimization activities.
 
 ---
 
-## 💼 Looking For
+## Education
 
-• Internship
+**Bachelor of Information and Communication Technology (BICT)**  
+University of Colombo — Faculty of Technology  
+Expected graduation: **2028**
 
-• Freelance
-
-• Open Source
-
-• Collaboration
-
-• Speaking Opportunities
+My current academic and independent work spans software engineering, databases, networking, systems, mobile development, cloud technologies, and applied ICT problem-solving.
 
 ---
+
+## Currently Developing
+
+I'm currently deepening my knowledge in:
+
+`Backend Architecture` · `System Design` · `Cloud Deployment` · `Databases` · `AI Integration` · `DevOps`
+
+I use learning projects and larger end-to-end applications to move concepts from theory into working software.
+
+---
+
+## Open to Opportunities
+
+I'm interested in opportunities where I can contribute to real software products while continuing to grow as an engineer, particularly in:
+
+- Software Engineering Internships
+- Full-Stack & Backend Development
+- Open-Source Collaboration
+- Developer Tools & Systems Projects
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SahanPramuditha-Dev&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/SahanPramuditha-Dev?label=Followers&style=flat-square&color=38bdf8&labelColor=1e293b" alt="Followers"/>
+### Let's connect
 
-<br/><br/>
-
-[![Get in Touch](https://img.shields.io/badge/📩_Get_in_Touch-contact.sahanpramuditha%40gmail.com-0ea5e9?style=for-the-badge&labelColor=1e293b)](mailto:contact.sahanpramuditha@gmail.com)
-
-<br/><br/>
-
-*Always happy to talk software engineering, databases, system/network administration, or digital operations.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sahanpramuditha.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-pramuditha/)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.sahanpramuditha@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c1a2e,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=SahanPramuditha-Dev&label=Profile+Views&color=0A66C2&style=flat-square" alt="Profile views" />
 
 </div>
