@@ -8,6 +8,7 @@ Building full-stack applications, backend systems, and developer tools with a fo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sahanpramuditha.me-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://sahanpramuditha.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahan_Pramuditha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-pramuditha/)
+[![Credly](https://img.shields.io/badge/Credly-Verified_Credentials-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/sahan-pramuditha.530ca0b5/badges/credly)
 [![Email](https://img.shields.io/badge/Email-contact.sahanpramuditha%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.sahanpramuditha@gmail.com)
 
 `Software Engineering` · `Full-Stack Development` · `Backend Engineering` · `Cloud & Systems`
@@ -179,6 +180,20 @@ My current academic and independent work spans software engineering, databases, 
 
 ---
 
+## 🏅 Verified Certifications & Credentials
+
+I maintain my verified digital credentials on **Credly**, where badge issuers provide credential details and verification information.
+
+<div align="center">
+
+[![Credly](https://img.shields.io/badge/Credly-View_Verified_Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sahan-pramuditha.530ca0b5/badges/credly)
+
+</div>
+
+> Individual credentials are kept on Credly so recruiters and collaborators can review the issuing organization, credential details, and verification record directly from the source.
+
+---
+
 ## Currently Developing
 
 I'm currently deepening my knowledge in:
@@ -204,6 +219,7 @@ I'm interested in opportunities where I can contribute to real software products
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sahanpramuditha.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-pramuditha/)
+[![Credly](https://img.shields.io/badge/Credly-Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sahan-pramuditha.530ca0b5/badges/credly)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.sahanpramuditha@gmail.com)
 
 <br/>
