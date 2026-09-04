@@ -15,6 +15,10 @@ Building full-stack applications, backend systems, and developer tools with a fo
 
 </div>
 
+<p align="center">
+  <img src="./Greate%20technology%20Comes%20Fron%20Curious%20Peoplw.png" alt="Sahan Pramuditha — Developer Portfolio" width="100%" />
+</p>
+
 ---
 
 ## About
