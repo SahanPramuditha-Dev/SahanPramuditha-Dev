@@ -36,54 +36,18 @@ I enjoy turning practical problems into usable software while continuously impro
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A selection of practical projects focused on **software systems, productivity, data, and developer tooling**.
 
-### 🏪 [iStore ERP](https://github.com/SahanPramuditha-Dev/I-Store-Website)
+| Project | Focus | Core Stack |
+| :--- | :--- | :--- |
+| **[iStore ERP](https://github.com/SahanPramuditha-Dev/I-Store-Website)** | Retail operations platform for POS, inventory, repairs, customers, reporting, and administration. | `React` · `FastAPI` · `PostgreSQL` · `Electron` |
+| **[StudyOS](https://github.com/SahanPramuditha-Dev/StudyOS)** | Student productivity workspace for planning, analytics, collaboration, and AI-assisted learning. | `React` · `Firebase` · `Vite` · `Tailwind CSS` |
+| **[FamilyTree](https://github.com/SahanPramuditha-Dev/FamilyTree)** | Privacy-focused genealogy platform with interactive family trees, kinship tools, and migration mapping. | `React` · `TypeScript` · `Firebase` · `React Flow` |
+| **[SysLens](https://github.com/SahanPramuditha-Dev/Syslens)** | Local-first system telemetry toolkit with diagnostics, anomaly detection, CLI utilities, and live observability. | `Python` · `FastAPI` · `WebSocket` · `CLI` |
 
-Retail management platform covering POS, inventory, repairs, customers, reporting, and administration.
-
-`React` `FastAPI` `Python` `PostgreSQL` `Electron`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [StudyOS](https://github.com/SahanPramuditha-Dev/StudyOS)
-
-Student productivity workspace combining academic planning, analytics, collaboration, and AI-assisted learning.
-
-`React` `Firebase` `Vite` `Tailwind CSS` `AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌳 [FamilyTree](https://github.com/SahanPramuditha-Dev/FamilyTree)
-
-Privacy-focused genealogy platform with interactive family trees, kinship tools, migration maps, and historical records.
-
-`React` `TypeScript` `Firebase` `React Flow` `Leaflet`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [SysLens](https://github.com/SahanPramuditha-Dev/Syslens)
-
-Local-first system telemetry and observability toolkit with diagnostics, anomaly detection, CLI tools, and a live dashboard.
-
-`Python` `FastAPI` `WebSocket` `CLI` `Observability`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahanPramuditha-Dev?tab=repositories)
-
-</div>
+<p align="right">
+  <a href="https://github.com/SahanPramuditha-Dev?tab=repositories"><b>View all repositories →</b></a>
+</p>
 
 ---
 
