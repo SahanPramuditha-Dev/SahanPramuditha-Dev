@@ -1,41 +1,67 @@
 <div align="center">
 
-# Sahan Pramuditha
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:172554,100:1D4ED8&height=210&section=header&text=Sahan%20Pramuditha&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20BICT%20Undergraduate%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Sahan Pramuditha header" />
 
-### Software Developer · BICT Undergraduate @ University of Colombo
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Building+full-stack+applications+and+backend+systems;Creating+developer+tools+and+practical+software;Turning+real-world+problems+into+reliable+products" alt="Animated developer introduction" />
+</a>
 
-Building full-stack applications, backend systems, and developer tools with a focus on practical problem-solving, maintainable architecture, and thoughtful user experiences.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sahanpramuditha.me-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://sahanpramuditha.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahan_Pramuditha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-pramuditha/)
-[![Credly](https://img.shields.io/badge/Credly-Verified_Credentials-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/sahan-pramuditha.530ca0b5/badges/credly)
-[![Email](https://img.shields.io/badge/Email-contact.sahanpramuditha%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.sahanpramuditha@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahanpramuditha.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sahanpramuditha.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-pramuditha/)
+[![Credly](https://img.shields.io/badge/Credly-Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sahan-pramuditha.530ca0b5/badges/credly)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.sahanpramuditha@gmail.com)
+
+<br/>
 
 `Software Engineering` · `Full-Stack Development` · `Backend Engineering` · `Cloud & Systems`
 
-</div>
+<br/>
 
-<p align="center">
-  <img src="./Greate%20technology%20Comes%20Fron%20Curious%20Peoplw.png" alt="Sahan Pramuditha — Developer Portfolio" width="100%" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=SahanPramuditha-Dev&label=Profile+Views&color=0A66C2&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
-## About
+## 👋 About Me
 
 I'm **M. Sahan Pramuditha Perera**, a **Bachelor of Information and Communication Technology (BICT)** undergraduate at the **University of Colombo, Faculty of Technology**.
 
-I build software across web, backend, desktop, mobile, and developer-tooling domains. My work focuses on turning real operational problems into usable systems while continuously improving my knowledge of software architecture, databases, cloud platforms, security, and modern development practices.
+I build software across **web, backend, desktop, mobile, and developer-tooling** domains. I enjoy taking practical problems, understanding how the workflow really works, and turning that knowledge into software that is usable, maintainable, and ready to grow.
 
-- 📍 Gampaha, Sri Lanka
-- 🎓 BICT — University of Colombo · Expected 2028
-- 💼 E-Commerce Administrator & Website Manager — Wybe Fashion
-- 🌐 [sahanpramuditha.me](https://sahanpramuditha.me)
-- 📫 [contact.sahanpramuditha@gmail.com](mailto:contact.sahanpramuditha@gmail.com)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Current focus
+
+- Backend architecture and API design
+- Full-stack application engineering
+- Databases and data modelling
+- Cloud deployment and DevOps
+- Developer tooling and system utilities
+- Practical AI integration
+
+</td>
+<td width="50%" valign="top">
+
+### Snapshot
+
+- 📍 **Sri Lanka**
+- 🎓 **BICT — University of Colombo** · Expected 2028
+- 💼 **E-Commerce Administrator & Website Manager — Wybe Fashion**
+- 🌐 **Portfolio:** [sahanpramuditha.me](https://sahanpramuditha.me)
+- 📫 **Email:** [contact.sahanpramuditha@gmail.com](mailto:contact.sahanpramuditha@gmail.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Engineering Projects
+## 🚀 Featured Engineering Projects
 
 <table>
 <tr>
@@ -46,6 +72,7 @@ I build software across web, backend, desktop, mobile, and developer-tooling dom
 Retail POS, inventory, repair, customer, reporting, and administration platform designed for desktop, local-network, and cloud deployment scenarios.
 
 **Engineering highlights**
+
 - React + FastAPI full-stack architecture
 - SQLite / PostgreSQL data layer
 - Electron desktop application
@@ -63,6 +90,7 @@ Retail POS, inventory, repair, customer, reporting, and administration platform 
 An all-in-one study and productivity workspace combining academic management, planning, collaboration, analytics, and AI-assisted learning.
 
 **Engineering highlights**
+
 - Authentication & role-aware routing
 - Courses, assignments, projects and planning
 - Spaced repetition and study analytics
@@ -82,6 +110,7 @@ An all-in-one study and productivity workspace combining academic management, pl
 Privacy-focused genealogy platform for visualizing family relationships, preserving historical records, mapping migration, and collaborating across generations.
 
 **Engineering highlights**
+
 - Interactive multi-generation graph visualization
 - Kinship and relationship-path calculation
 - GIS-based family migration maps
@@ -99,6 +128,7 @@ Privacy-focused genealogy platform for visualizing family relationships, preserv
 Local-first system telemetry and observability toolkit for developers, combining system metrics, diagnostics, anomaly detection, CLI tooling, and a web dashboard.
 
 **Engineering highlights**
+
 - CPU, memory, disk and process telemetry
 - Rolling behavioral baselines
 - Z-score anomaly detection
@@ -112,52 +142,71 @@ Local-first system telemetry and observability toolkit for developers, combining
 </tr>
 </table>
 
-> Explore more of my work in the [repositories tab](https://github.com/SahanPramuditha-Dev?tab=repositories), including Android applications, networking tools, learning projects, web applications, and experimental systems.
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahanPramuditha-Dev?tab=repositories)
+
+</div>
 
 ---
 
-## Technical Stack
+## 🧰 Technology Stack
 
-### Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,react,vite,tailwind,fastapi,nodejs,firebase,postgres,mysql,sqlite,docker,cloudflare,git,github,vscode&perline=9" alt="Technology stack" />
 
-### Frontend & Application Development
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<br/>
 
-### Backend, Data & APIs
+<details>
+<summary><b>View stack by area</b></summary>
+<br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Languages**  
+Python · TypeScript · JavaScript · Java · SQL · HTML5 · CSS3
 
-### Cloud, DevOps & Engineering Tools
+**Frontend & application development**  
+React · Vite · Tailwind CSS · Material UI · Electron · Android
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Backend, data & APIs**  
+FastAPI · Node.js · Firebase · PostgreSQL · SQLite · MySQL
+
+**Cloud, DevOps & tooling**  
+Docker · GitHub Actions · Cloudflare · Git · GitHub · VS Code
+
+</details>
 
 ---
 
-## Professional Experience
+## 📊 GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SahanPramuditha-Dev&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SahanPramuditha-Dev&show_icons=true&hide_border=true&rank_icon=github&theme=default&bg_color=00000000" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SahanPramuditha-Dev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Sahan's GitHub statistics" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanPramuditha-Dev&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanPramuditha-Dev&layout=compact&hide_border=true&theme=default&bg_color=00000000&langs_count=8" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanPramuditha-Dev&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+</picture>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SahanPramuditha-Dev&bg_color=transparent&color=2F81F7&line=2F81F7&point=58A6FF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+> GitHub language statistics reflect repository code composition and are not a measurement of overall skill level.
+
+---
+
+## 💼 Professional Experience
 
 ### Wybe Fashion — Dec 2024 · Present
 **E-Commerce Administrator & Website Manager / Retail Operations**
@@ -174,13 +223,13 @@ Local-first system telemetry and observability toolkit for developers, combining
 
 ---
 
-## Education
+## 🎓 Education
 
-**Bachelor of Information and Communication Technology (BICT)**  
-University of Colombo — Faculty of Technology  
+### Bachelor of Information and Communication Technology (BICT)
+**University of Colombo — Faculty of Technology**  
 Expected graduation: **2028**
 
-My current academic and independent work spans software engineering, databases, networking, systems, mobile development, cloud technologies, and applied ICT problem-solving.
+My academic and independent work spans software engineering, databases, networking, systems, mobile development, cloud technologies, and applied ICT problem-solving.
 
 ---
 
@@ -194,40 +243,37 @@ I maintain my verified digital credentials on **Credly**, where badge issuers pr
 
 </div>
 
-> Individual credentials are kept on Credly so recruiters and collaborators can review the issuing organization, credential details, and verification record directly from the source.
-
 ---
 
-## Currently Developing
+## 🌱 Currently Developing
 
-I'm currently deepening my knowledge in:
-
-`Backend Architecture` · `System Design` · `Cloud Deployment` · `Databases` · `AI Integration` · `DevOps`
-
-I use learning projects and larger end-to-end applications to move concepts from theory into working software.
-
----
-
-## Open to Opportunities
-
-I'm interested in opportunities where I can contribute to real software products while continuing to grow as an engineer, particularly in:
-
-- Software Engineering Internships
-- Full-Stack & Backend Development
-- Open-Source Collaboration
-- Developer Tools & Systems Projects
+I am currently deepening my knowledge in:
 
 <div align="center">
 
-### Let's connect
+`Backend Architecture` · `System Design` · `Cloud Deployment`  
+`Databases` · `AI Integration` · `DevOps`
+
+</div>
+
+I use focused learning projects and larger end-to-end applications to move concepts from theory into working software.
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm interested in opportunities where I can contribute to real software products while continuing to grow as an engineer, particularly in **software engineering internships, full-stack and backend development, open-source collaboration, developer tooling, and systems projects**.
+
+<div align="center">
+
+### Let's build something useful.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sahanpramuditha.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-pramuditha/)
-[![Credly](https://img.shields.io/badge/Credly-Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sahan-pramuditha.530ca0b5/badges/credly)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.sahanpramuditha@gmail.com)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SahanPramuditha-Dev&label=Profile+Views&color=0A66C2&style=flat-square" alt="Profile views" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:172554,100:1D4ED8&height=120&section=footer" alt="Footer" />
 
 </div>
