@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-sahanpramuditha.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sahanpramuditha.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-pramuditha/)
 [![Credly](https://img.shields.io/badge/Credly-Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sahan-pramuditha.530ca0b5/badges/credly)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.sahanpramuditha@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahan.dev.tech@gmail.com)
 
 </div>
 
@@ -143,7 +143,7 @@ I'm open to **software engineering internships, backend/full-stack opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sahanpramuditha.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-pramuditha/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.sahanpramuditha@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahan.dev.tech@gmail.com)
 
 <br/>
 
