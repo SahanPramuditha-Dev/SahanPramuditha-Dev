@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center">
-  <img src="./Greate%20technology%20Comes%20Fron%20Curious%20Peoplw.png" alt="Great technology comes from curious people" width="100%" />
+  <img src="./Sahan%20Pramuditha.jpeg" alt="Great technology comes from curious people" width="100%" />
 </p>
 
 ---
